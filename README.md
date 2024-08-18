@@ -1,12 +1,12 @@
-# Neural Networks: Project 3
+# Neural Networks: Exploring Variational Autoencoders with Gaussian Mixture Models
 
 **Credit:**
 The implementation is based on tasks provided by Pablo M. Olmos.
 
 **Completed by:**
-- **Marina Gómez Rey** (https://github.com/MarinaGRey)
+- **María Ángeles Magro Garrote** - [mariamagro](https://github.com/mariamagro)
+- **Marina Gómez Rey** - [MarinaGRey](https://github.com/MarinaGRey)
 - **Ángela Durán**
-- **María Ángeles Magro Garrote**
 
 ## Overview
 
@@ -23,4 +23,3 @@ The project consists of the following components:
 - `report.pdf`: A comprehensive report detailing the project, including methodology, results, and insights.
 - `part1.ipynb`: Jupyter Notebook containing the implementation of synthetic data generation and VAE model definition.
 - `part2.ipynb`: Jupyter Notebook for training the VAE, generating samples, performing clustering, mode identification, and T-SNE visualization.
-
